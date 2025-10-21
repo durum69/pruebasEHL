@@ -17,7 +17,10 @@
 # ---------------------------------------------- #
 #
 # Body - BODY
-       $INCLUDE "C:\usr\projects\DragoSAT\TMM\Include\BODY\BODY.CONDUCTORS"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\BODY\BODY.CONDUCTORS"
+#
+# ANTENA - ANT
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\ANT\ANT.CONDUCTORS"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
 #

@@ -2,12 +2,12 @@
 /* ----- FILE INFORMATION - DO NOT REMOVE ------- */
 /* ---------------------------------------------- */
 /*
-/* MODEL NAME: DRAGOSAT_V2
+/* MODEL NAME: ANTENA
 /* FILE NAME: materials
 /* CREATED BY: Iordan Dragovchev
-/* CREATED ON: 21/10/2025 10:41:26
+/* CREATED ON: 21/10/2025 12:41:12
 /* LAST UPDATED BY: Iordan Dragovchev
-/* LAST UPDATED ON: 21/10/2025 10:41:26
+/* LAST UPDATED ON: 21/10/2025 12:41:12
 /* VERSION: v0.0
 */
 /* -------------- END OF INFO BLOCK ------------- */
@@ -15,10 +15,5 @@
 /* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
 /* ---------------------------------------------- */
 
-/* Body - BODY */
-  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\GMM\BODY\Include\BODY.materials"
-
-/* ANTENA - ANT */
-  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\GMM\ANT\Include\ANT.materials"
 
 /* ------------ END OF INCLUDE BLOCK ------------ */

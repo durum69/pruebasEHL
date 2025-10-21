@@ -17,7 +17,10 @@
 # ---------------------------------------------- #
 #
 # Body - BODY
-       $INCLUDE "C:\usr\projects\DragoSAT\TMM\Include\BODY\BODY.ARRAYS"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\BODY\BODY.ARRAYS"
+#
+# ANTENA - ANT
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\ANT\ANT.ARRAYS"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
 #
