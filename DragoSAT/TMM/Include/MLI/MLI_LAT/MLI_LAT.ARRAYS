@@ -2,12 +2,12 @@
 # ----- FILE INFORMATION - DO NOT REMOVE ------- #
 # ---------------------------------------------- #
 #
-# MODEL NAME: DRAGOSAT_V2
-# FILE NAME: LOCALS
+# MODEL NAME: LATERAL
+# FILE NAME: ARRAYS
 # CREATED BY: Iordan Dragovchev
-# CREATED ON: 21/10/2025 10:41:26
+# CREATED ON: 21/10/2025 13:06:05
 # LAST UPDATED BY: Iordan Dragovchev
-# LAST UPDATED ON: 21/10/2025 10:41:26
+# LAST UPDATED ON: 21/10/2025 13:06:05
 # VERSION: v0.0
 #
 # -------------- END OF INFO BLOCK ------------- #
@@ -16,17 +16,9 @@
 # ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
 # ---------------------------------------------- #
 #
-# Body - BODY
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\BODY\BODY.LOCALS"
-#
-# ANTENA - ANT
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\ANT\ANT.LOCALS"
-#
-# MLI - MLI
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\MLI\MLI.LOCALS"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
 #
 # ---------------------------------------------- #
-# USER-DEFINED LOCALS - DO NOT REMOVE
+# USER-DEFINED ARRAYS - DO NOT REMOVE
 # ---------------------------------------------- #

@@ -2,12 +2,12 @@
 # ----- FILE INFORMATION - DO NOT REMOVE ------- #
 # ---------------------------------------------- #
 #
-# MODEL NAME: DRAGOSAT_V2
-# FILE NAME: LOCALS
+# MODEL NAME: MLI
+# FILE NAME: SUBROUTINES
 # CREATED BY: Iordan Dragovchev
-# CREATED ON: 21/10/2025 10:41:26
+# CREATED ON: 21/10/2025 13:05:55
 # LAST UPDATED BY: Iordan Dragovchev
-# LAST UPDATED ON: 21/10/2025 10:41:26
+# LAST UPDATED ON: 21/10/2025 13:05:55
 # VERSION: v0.0
 #
 # -------------- END OF INFO BLOCK ------------- #
@@ -16,17 +16,11 @@
 # ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
 # ---------------------------------------------- #
 #
-# Body - BODY
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\BODY\BODY.LOCALS"
-#
-# ANTENA - ANT
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\ANT\ANT.LOCALS"
-#
-# MLI - MLI
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\MLI\MLI.LOCALS"
+# LATERAL - MLI_LAT
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\MLI\MLI_LAT\MLI_LAT.SUBROUTINES"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
 #
 # ---------------------------------------------- #
-# USER-DEFINED LOCALS - DO NOT REMOVE
+# USER-DEFINED SUBROUTINES - DO NOT REMOVE
 # ---------------------------------------------- #
