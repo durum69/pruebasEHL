@@ -1,0 +1,29 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: DRAGOSAT_V2
+/* FILE NAME: assembly
+/* CREATED BY: Iordan Dragovchev
+/* CREATED ON: 21/10/2025 10:41:26
+/* LAST UPDATED BY: Iordan Dragovchev
+/* LAST UPDATED ON: 21/10/2025 10:41:26
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as an assembly of the    */
+/* lower hierarchy models with their parent.      */
+/* Rotation and traslation operations to relate   */
+/* different coordinate systems are only allowed  */
+/* in this file.                                  */
+/* ---------------------------------------------- */
+  INCLUDE "C:\usr\projects\DragoSAT\GMM\DragoSAT.GMM"
+/* ---------------------------------------------- */
+/* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
+/* ---------------------------------------------- */
+
+/* Body - BODY */
+  INCLUDE "C:\usr\projects\DragoSAT\GMM\BODY\BODY.assembly"
+
+/* ------------ END OF INCLUDE BLOCK ------------ */

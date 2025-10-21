@@ -1,0 +1,26 @@
+# ---------------------------------------------- #
+# ----- FILE INFORMATION - DO NOT REMOVE ------- #
+# ---------------------------------------------- #
+#
+# MODEL NAME: DRAGOSAT_V2
+# FILE NAME: SUBROUTINES
+# CREATED BY: Iordan Dragovchev
+# CREATED ON: 21/10/2025 10:41:26
+# LAST UPDATED BY: Iordan Dragovchev
+# LAST UPDATED ON: 21/10/2025 10:41:26
+# VERSION: v0.0
+#
+# -------------- END OF INFO BLOCK ------------- #
+#
+# ---------------------------------------------- #
+# ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
+# ---------------------------------------------- #
+#
+# Body - BODY
+       $INCLUDE "C:\usr\projects\DragoSAT\TMM\Include\BODY\BODY.SUBROUTINES"
+#
+# ------------ END OF INCLUDE BLOCK ------------ #
+#
+# ---------------------------------------------- #
+# USER-DEFINED SUBROUTINES - DO NOT REMOVE
+# ---------------------------------------------- #
