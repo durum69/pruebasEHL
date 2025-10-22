@@ -1,0 +1,24 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: David
+/* FILE NAME: erg
+/* CREATED BY: Iordan Dragovchev
+/* CREATED ON: 22/10/2025 13:07:22
+/* LAST UPDATED BY: Iordan Dragovchev
+/* LAST UPDATED ON: 22/10/2025 13:07:22
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL David
+
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\GMM\Include\David.materials"
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\GMM\David.assembly"
+
+END_MODEL
+/* ---------------------------------------------- */

@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: Body
+/* FILE NAME: assembly
+/* CREATED BY: Iordan Dragovchev
+/* CREATED ON: 22/10/2025 13:07:49
+/* LAST UPDATED BY: Iordan Dragovchev
+/* LAST UPDATED ON: 22/10/2025 13:07:49
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as an assembly of the    */
+/* lower hierarchy models with their parent.      */
+/* Rotation and traslation operations to relate   */
+/* different coordinate systems are only allowed  */
+/* in this file.                                  */
+/* ---------------------------------------------- */
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\GMM\body\Include\body.GMM"
+/* ---------------------------------------------- */
+/* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
+/* ---------------------------------------------- */
+
+
+/* ------------ END OF INCLUDE BLOCK ------------ */

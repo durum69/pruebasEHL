@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: pruebaa
+/* FILE NAME: erg
+/* CREATED BY: Iordan Dragovchev
+/* CREATED ON: 22/10/2025 13:08:25
+/* LAST UPDATED BY: Iordan Dragovchev
+/* LAST UPDATED ON: 22/10/2025 13:08:25
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL ant_prueb_STANDALONE
+
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\GMM\ant\ant_prueb\Include\ant_prueb.materials"
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\GMM\ant\ant_prueb\ant_prueb.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+ant_prueb_STANDALONE = DUMMY_ASSEMBLY + ant_prueb;
+
+END_MODEL
+/* ---------------------------------------------- */

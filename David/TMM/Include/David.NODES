@@ -1,0 +1,29 @@
+# ---------------------------------------------- #
+# ----- FILE INFORMATION - DO NOT REMOVE ------- #
+# ---------------------------------------------- #
+#
+# MODEL NAME: David
+# FILE NAME: NODES
+# CREATED BY: Iordan Dragovchev
+# CREATED ON: 22/10/2025 13:07:22
+# LAST UPDATED BY: Iordan Dragovchev
+# LAST UPDATED ON: 22/10/2025 13:07:22
+# VERSION: v0.0
+#
+# -------------- END OF INFO BLOCK ------------- #
+#
+# ---------------------------------------------- #
+# ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
+# ---------------------------------------------- #
+#
+# Body - body
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\TMM\Include\body\body.NODES"
+#
+# antena - ant
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\TMM\Include\ant\ant.NODES"
+#
+# ------------ END OF INCLUDE BLOCK ------------ #
+#
+# ---------------------------------------------- #
+# USER-DEFINED NODES - DO NOT REMOVE
+# ---------------------------------------------- #

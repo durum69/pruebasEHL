@@ -1,0 +1,26 @@
+# ---------------------------------------------- #
+# ----- FILE INFORMATION - DO NOT REMOVE ------- #
+# ---------------------------------------------- #
+#
+# MODEL NAME: antena
+# FILE NAME: LOCALS
+# CREATED BY: Iordan Dragovchev
+# CREATED ON: 22/10/2025 13:08:09
+# LAST UPDATED BY: Iordan Dragovchev
+# LAST UPDATED ON: 22/10/2025 13:08:09
+# VERSION: v0.0
+#
+# -------------- END OF INFO BLOCK ------------- #
+#
+# ---------------------------------------------- #
+# ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
+# ---------------------------------------------- #
+#
+# pruebaa - ant_prueb
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\TMM\Include\ant\ant_prueb\ant_prueb.LOCALS"
+#
+# ------------ END OF INCLUDE BLOCK ------------ #
+#
+# ---------------------------------------------- #
+# USER-DEFINED LOCALS - DO NOT REMOVE
+# ---------------------------------------------- #
