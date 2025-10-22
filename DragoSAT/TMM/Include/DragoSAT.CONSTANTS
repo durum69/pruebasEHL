@@ -25,6 +25,9 @@
 # MLI - MLI
        $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\MLI\MLI.CONSTANTS"
 #
+# IR CAMERA - IR_CAM
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\IR_CAM\IR_CAM.CONSTANTS"
+#
 # ------------ END OF INCLUDE BLOCK ------------ #
 #
 # ---------------------------------------------- #

@@ -2,12 +2,12 @@ C ---------------------------------------------- C
 C ----- FILE INFORMATION - DO NOT REMOVE ------- C
 C ---------------------------------------------- C
 C
-C MODEL NAME: DRAGOSAT_V2
+C MODEL NAME: Structure
 C FILE NAME: VARIABLES1
 C CREATED BY: Iordan Dragovchev
-C CREATED ON: 21/10/2025 10:41:26
+C CREATED ON: 22/10/2025 10:11:25
 C LAST UPDATED BY: Iordan Dragovchev
-C LAST UPDATED ON: 21/10/2025 10:41:26
+C LAST UPDATED ON: 22/10/2025 10:11:25
 C VERSION: v0.0
 C
 C -------------- END OF INFO BLOCK ------------- C
@@ -16,17 +16,6 @@ C ---------------------------------------------- C
 C ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- C
 C ---------------------------------------------- C
 C
-C Body - BODY
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\BODY\BODY.VARIABLES1"
-C
-C ANTENA - ANT
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\ANT\ANT.VARIABLES1"
-C
-C MLI - MLI
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\MLI\MLI.VARIABLES1"
-C
-C IR CAMERA - IR_CAM
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\IR_CAM\IR_CAM.VARIABLES1"
 C
 C ------------ END OF INCLUDE BLOCK ------------ C
 C

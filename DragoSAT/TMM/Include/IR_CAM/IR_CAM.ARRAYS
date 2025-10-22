@@ -2,12 +2,12 @@
 # ----- FILE INFORMATION - DO NOT REMOVE ------- #
 # ---------------------------------------------- #
 #
-# MODEL NAME: DRAGOSAT_V2
-# FILE NAME: NODES
+# MODEL NAME: IR CAMERA
+# FILE NAME: ARRAYS
 # CREATED BY: Iordan Dragovchev
-# CREATED ON: 21/10/2025 10:41:26
+# CREATED ON: 22/10/2025 10:11:13
 # LAST UPDATED BY: Iordan Dragovchev
-# LAST UPDATED ON: 21/10/2025 10:41:26
+# LAST UPDATED ON: 22/10/2025 10:11:13
 # VERSION: v0.0
 #
 # -------------- END OF INFO BLOCK ------------- #
@@ -16,20 +16,11 @@
 # ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
 # ---------------------------------------------- #
 #
-# Body - BODY
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\BODY\BODY.NODES"
-#
-# ANTENA - ANT
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\ANT\ANT.NODES"
-#
-# MLI - MLI
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\MLI\MLI.NODES"
-#
-# IR CAMERA - IR_CAM
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\IR_CAM\IR_CAM.NODES"
+# Structure - IR_CAM_STR
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT\TMM\Include\IR_CAM\IR_CAM_STR\IR_CAM_STR.ARRAYS"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
 #
 # ---------------------------------------------- #
-# USER-DEFINED NODES - DO NOT REMOVE
+# USER-DEFINED ARRAYS - DO NOT REMOVE
 # ---------------------------------------------- #
