@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: Antena
+/* FILE NAME: erg
+/* CREATED BY: Iordan Dragovchev
+/* CREATED ON: 28/10/2025 11:35:50
+/* LAST UPDATED BY: Iordan Dragovchev
+/* LAST UPDATED ON: 28/10/2025 11:35:50
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL ANT_STANDALONE
+
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\git\GMM\ANT\Include\ANT.materials"
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\git\GMM\ANT\ANT.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+ANT_STANDALONE = DUMMY_ASSEMBLY + ANT;
+
+END_MODEL
+/* ---------------------------------------------- */
