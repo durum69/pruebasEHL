@@ -17,10 +17,10 @@ C ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- C
 C ---------------------------------------------- C
 C
 C Body - body
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\TMM\Include\body\body.INITIAL"
+       $INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\David\TMM\Include\body\body.INITIAL"
 C
 C antena - ant
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\TMM\Include\ant\ant.INITIAL"
+       $INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\David\TMM\Include\ant\ant.INITIAL"
 C
 C ------------ END OF INCLUDE BLOCK ------------ C
 C

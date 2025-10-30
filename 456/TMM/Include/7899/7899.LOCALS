@@ -2,12 +2,12 @@
 # ----- FILE INFORMATION - DO NOT REMOVE ------- #
 # ---------------------------------------------- #
 #
-# MODEL NAME: David
-# FILE NAME: ARRAYS
+# MODEL NAME: 7899
+# FILE NAME: LOCALS
 # CREATED BY: Iordan Dragovchev
-# CREATED ON: 22/10/2025 13:07:22
+# CREATED ON: 30/10/2025 12:01:01
 # LAST UPDATED BY: Iordan Dragovchev
-# LAST UPDATED ON: 22/10/2025 13:07:22
+# LAST UPDATED ON: 30/10/2025 12:01:01
 # VERSION: v0.0
 #
 # -------------- END OF INFO BLOCK ------------- #
@@ -16,14 +16,9 @@
 # ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
 # ---------------------------------------------- #
 #
-# Body - body
-       $INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\David\TMM\Include\body\body.ARRAYS"
-#
-# antena - ant
-       $INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\David\TMM\Include\ant\ant.ARRAYS"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
-# 
+#
 # ---------------------------------------------- #
-# USER-DEFINED ARRAYS - DO NOT REMOVE
+# USER-DEFINED LOCALS - DO NOT REMOVE
 # ---------------------------------------------- #

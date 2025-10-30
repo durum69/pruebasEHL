@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: 7899
+/* FILE NAME: erg
+/* CREATED BY: Iordan Dragovchev
+/* CREATED ON: 30/10/2025 12:01:01
+/* LAST UPDATED BY: Iordan Dragovchev
+/* LAST UPDATED ON: 30/10/2025 12:01:01
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL 7899_STANDALONE
+
+  INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\456\GMM\7899\Include\7899.materials"
+  INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\456\GMM\7899\7899.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+7899_STANDALONE = DUMMY_ASSEMBLY + 7899;
+
+END_MODEL
+/* ---------------------------------------------- */

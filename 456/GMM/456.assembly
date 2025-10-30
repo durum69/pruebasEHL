@@ -2,12 +2,12 @@
 /* ----- FILE INFORMATION - DO NOT REMOVE ------- */
 /* ---------------------------------------------- */
 /*
-/* MODEL NAME: David
+/* MODEL NAME: 456
 /* FILE NAME: assembly
 /* CREATED BY: Iordan Dragovchev
-/* CREATED ON: 22/10/2025 13:07:22
+/* CREATED ON: 30/10/2025 12:00:30
 /* LAST UPDATED BY: Iordan Dragovchev
-/* LAST UPDATED ON: 22/10/2025 13:07:22
+/* LAST UPDATED ON: 30/10/2025 12:00:30
 /* VERSION: v0.0
 */
 /* -------------- END OF INFO BLOCK ------------- */
@@ -18,15 +18,12 @@
 /* different coordinate systems are only allowed  */
 /* in this file.                                  */
 /* ---------------------------------------------- */
-  INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\David\GMM\David.GMM"
+  INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\456\GMM\456.GMM"
 /* ---------------------------------------------- */
 /* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
 /* ---------------------------------------------- */
 
-/* Body - body */
-  INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\David\GMM\body\body.assembly"
-
-/* antena - ant */
-  INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\David\GMM\ant\ant.assembly"
+/* 7899 - 7899 */
+  INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\456\GMM\7899\7899.assembly"
 
 /* ------------ END OF INCLUDE BLOCK ------------ */

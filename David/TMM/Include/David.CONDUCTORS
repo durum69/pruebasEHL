@@ -17,10 +17,10 @@
 # ---------------------------------------------- #
 #
 # Body - body
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\TMM\Include\body\body.CONDUCTORS"
+       $INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\David\TMM\Include\body\body.CONDUCTORS"
 #
 # antena - ant
-       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\TMM\Include\ant\ant.CONDUCTORS"
+       $INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\David\TMM\Include\ant\ant.CONDUCTORS"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
 #
