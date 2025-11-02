@@ -1,0 +1,21 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: pruebaa
+/* FILE NAME: materials
+/* CREATED BY: Iordan Dragovchev
+/* CREATED ON: 22/10/2025 13:08:25
+/* LAST UPDATED BY: Iordan Dragovchev
+/* LAST UPDATED ON: 22/10/2025 13:08:25
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
+/* ---------------------------------------------- */
+
+/* prueba - ant_prueb_prueb */
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\GMM\ant\ant_prueb\ant_prueb_prueb\Include\ant_prueb_prueb.materials"
+
+/* ------------ END OF INCLUDE BLOCK ------------ */
