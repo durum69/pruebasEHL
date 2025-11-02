@@ -1,0 +1,35 @@
+# ---------------------------------------------- #
+# ----- FILE INFORMATION - DO NOT REMOVE ------- #
+# ---------------------------------------------- #
+#
+# MODEL NAME: 456
+# FILE NAME: CONDUCTORS
+# CREATED BY: Iordan Dragovchev
+# CREATED ON: 30/10/2025 12:00:30
+# LAST UPDATED BY: Iordan Dragovchev
+# LAST UPDATED ON: 30/10/2025 12:00:30
+# VERSION: v0.0
+#
+# -------------- END OF INFO BLOCK ------------- #
+#
+# ---------------------------------------------- #
+# ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
+# ---------------------------------------------- #
+#
+# 7899 - 7899
+       $INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\456\TMM\Include\7899\7899.CONDUCTORS"
+#
+# 565 - 565
+       $INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\456\TMM\Include\565\565.CONDUCTORS"
+#
+# 88 - 8
+       $INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\456\TMM\Include\8\8.CONDUCTORS"
+#
+# 333 - 33
+       $INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\456\TMM\Include\33\33.CONDUCTORS"
+#
+# ------------ END OF INCLUDE BLOCK ------------ #
+#
+# ---------------------------------------------- #
+# USER-DEFINED CONDUCTORS - DO NOT REMOVE
+# ---------------------------------------------- #
