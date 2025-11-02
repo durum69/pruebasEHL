@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: nicky
+/* FILE NAME: erg
+/* CREATED BY: Lamine Yamal
+/* CREATED ON: 01/11/2025 18:16:58
+/* LAST UPDATED BY: Lamine Yamal
+/* LAST UPDATED ON: 01/11/2025 18:16:58
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL nick_STANDALONE
+
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\lam\GMM\nick\Include\nick.materials"
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\lam\GMM\nick\nick.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+nick_STANDALONE = DUMMY_ASSEMBLY + nick;
+
+END_MODEL
+/* ---------------------------------------------- */
