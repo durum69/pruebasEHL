@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: nicole
+/* FILE NAME: erg
+/* CREATED BY: Lamine Yamal
+/* CREATED ON: 01/11/2025 18:17:13
+/* LAST UPDATED BY: Lamine Yamal
+/* LAST UPDATED ON: 01/11/2025 18:17:13
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL nicl_STANDALONE
+
+  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\lam\GMM\nicl\Include\nicl.materials"
+  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\lam\GMM\nicl\nicl.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+nicl_STANDALONE = DUMMY_ASSEMBLY + nicl;
+
+END_MODEL
+/* ---------------------------------------------- */
