@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: 565
+/* FILE NAME: erg
+/* CREATED BY: Iordan Dragovchev
+/* CREATED ON: 01/11/2025 16:47:47
+/* LAST UPDATED BY: Iordan Dragovchev
+/* LAST UPDATED ON: 01/11/2025 16:47:47
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL 565_STANDALONE
+
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\456\GMM\565\Include\565.materials"
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\456\GMM\565\565.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+565_STANDALONE = DUMMY_ASSEMBLY + 565;
+
+END_MODEL
+/* ---------------------------------------------- */

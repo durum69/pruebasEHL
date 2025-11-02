@@ -2,12 +2,12 @@
 # ----- FILE INFORMATION - DO NOT REMOVE ------- #
 # ---------------------------------------------- #
 #
-# MODEL NAME: 456
-# FILE NAME: NODES
+# MODEL NAME: 565
+# FILE NAME: CONDUCTORS
 # CREATED BY: Iordan Dragovchev
-# CREATED ON: 30/10/2025 12:00:30
+# CREATED ON: 01/11/2025 16:47:47
 # LAST UPDATED BY: Iordan Dragovchev
-# LAST UPDATED ON: 30/10/2025 12:00:30
+# LAST UPDATED ON: 01/11/2025 16:47:47
 # VERSION: v0.0
 #
 # -------------- END OF INFO BLOCK ------------- #
@@ -16,20 +16,9 @@
 # ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
 # ---------------------------------------------- #
 #
-# 7899 - 7899
-       $INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\456\TMM\Include\7899\7899.NODES"
-#
-# 565 - 565
-       $INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\456\TMM\Include\565\565.NODES"
-#
-# 88 - 8
-       $INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\456\TMM\Include\8\8.NODES"
-#
-# 333 - 33
-       $INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\456\TMM\Include\33\33.NODES"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
 #
 # ---------------------------------------------- #
-# USER-DEFINED NODES - DO NOT REMOVE
+# USER-DEFINED CONDUCTORS - DO NOT REMOVE
 # ---------------------------------------------- #

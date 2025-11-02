@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: 333
+/* FILE NAME: erg
+/* CREATED BY: Pedro Porras
+/* CREATED ON: 01/11/2025 17:16:10
+/* LAST UPDATED BY: Pedro Porras
+/* LAST UPDATED ON: 01/11/2025 17:16:10
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL 33_STANDALONE
+
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\456\GMM\33\Include\33.materials"
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\456\GMM\33\33.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+33_STANDALONE = DUMMY_ASSEMBLY + 33;
+
+END_MODEL
+/* ---------------------------------------------- */
