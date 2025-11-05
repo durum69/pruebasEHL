@@ -17,13 +17,22 @@
 # ---------------------------------------------- #
 #
 # MLI - MLI
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\MLI\MLI.SUBROUTINES"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\MLI\MLI.SUBROUTINES"
 #
 # BODY - BODY
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\BODY\BODY.SUBROUTINES"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\BODY\BODY.SUBROUTINES"
 #
 # SOLAR PANELS - SPS
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\SPS\SPS.SUBROUTINES"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\SPS\SPS.SUBROUTINES"
+#
+# IR_CAM - IR_CAM
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\IR_CAM\IR_CAM.SUBROUTINES"
+#
+# INSTRUMENTS - INS
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\INS\INS.SUBROUTINES"
+#
+# RADIATOR - RADIATOR
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\RADIATOR\RADIATOR.SUBROUTINES"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
 #

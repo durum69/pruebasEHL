@@ -1,0 +1,29 @@
+# ---------------------------------------------- #
+# ----- FILE INFORMATION - DO NOT REMOVE ------- #
+# ---------------------------------------------- #
+#
+# MODEL NAME: ELECTRONICS BOX
+# FILE NAME: CONDUCTORS
+# CREATED BY: Iordan IDR
+# CREATED ON: 05/11/2025 11:13:50
+# LAST UPDATED BY: Iordan IDR
+# LAST UPDATED ON: 05/11/2025 11:13:50
+# VERSION: v0.0
+#
+# -------------- END OF INFO BLOCK ------------- #
+#
+# ---------------------------------------------- #
+# ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
+# ---------------------------------------------- #
+#
+# EB STRUCTURE - INS_EB_STR
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\INS\INS_EB\INS_EB_STR\INS_EB_STR.CONDUCTORS"
+#
+# EB PCB - INS_EB_PCB
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\INS\INS_EB\INS_EB_PCB\INS_EB_PCB.CONDUCTORS"
+#
+# ------------ END OF INCLUDE BLOCK ------------ #
+#
+# ---------------------------------------------- #
+# USER-DEFINED CONDUCTORS - DO NOT REMOVE
+# ---------------------------------------------- #

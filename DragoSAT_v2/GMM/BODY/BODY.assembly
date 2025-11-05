@@ -30,3 +30,8 @@
   INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\DragoSAT_v2\GMM\BODY\BODY_TRAY\BODY_TRAY.assembly"
 
 /* ------------ END OF INCLUDE BLOCK ------------ */
+
+GEOMETRY BODY;
+BODY = Body_Panel_Back + Body_Panel_Front + Body_Panel_Left + 
+    Body_Panel_Right + Body_Panel_Up + Body_Tray_1 + Body_Tray_2 + 
+    Body_Down_Cut;

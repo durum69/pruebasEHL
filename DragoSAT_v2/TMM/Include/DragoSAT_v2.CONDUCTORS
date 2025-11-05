@@ -17,13 +17,22 @@
 # ---------------------------------------------- #
 #
 # MLI - MLI
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\MLI\MLI.CONDUCTORS"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\MLI\MLI.CONDUCTORS"
 #
 # BODY - BODY
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\BODY\BODY.CONDUCTORS"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\BODY\BODY.CONDUCTORS"
 #
 # SOLAR PANELS - SPS
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\SPS\SPS.CONDUCTORS"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\SPS\SPS.CONDUCTORS"
+#
+# IR_CAM - IR_CAM
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\IR_CAM\IR_CAM.CONDUCTORS"
+#
+# INSTRUMENTS - INS
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\INS\INS.CONDUCTORS"
+#
+# RADIATOR - RADIATOR
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\RADIATOR\RADIATOR.CONDUCTORS"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
 #

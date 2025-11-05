@@ -16,6 +16,11 @@
 # ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
 # ---------------------------------------------- #
 #
+# Tray_1 - BODY_TRAY_1
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\BODY\BODY_TRAY\BODY_TRAY_1\BODY_TRAY_1.NODES"
+#
+# Tray_2 - BODY_TRAY_2
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\BODY\BODY_TRAY\BODY_TRAY_2\BODY_TRAY_2.NODES"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
 #

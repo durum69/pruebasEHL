@@ -17,13 +17,22 @@
 # ---------------------------------------------- #
 #
 # MLI - MLI
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\MLI\MLI.CONSTANTS"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\MLI\MLI.CONSTANTS"
 #
 # BODY - BODY
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\BODY\BODY.CONSTANTS"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\BODY\BODY.CONSTANTS"
 #
 # SOLAR PANELS - SPS
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\SPS\SPS.CONSTANTS"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\SPS\SPS.CONSTANTS"
+#
+# IR_CAM - IR_CAM
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\IR_CAM\IR_CAM.CONSTANTS"
+#
+# INSTRUMENTS - INS
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\INS\INS.CONSTANTS"
+#
+# RADIATOR - RADIATOR
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\RADIATOR\RADIATOR.CONSTANTS"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
 #

@@ -17,13 +17,22 @@
 # ---------------------------------------------- #
 #
 # MLI - MLI
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\MLI\MLI.ARRAYS"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\MLI\MLI.ARRAYS"
 #
 # BODY - BODY
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\BODY\BODY.ARRAYS"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\BODY\BODY.ARRAYS"
 #
 # SOLAR PANELS - SPS
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\SPS\SPS.ARRAYS"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\SPS\SPS.ARRAYS"
+#
+# IR_CAM - IR_CAM
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\IR_CAM\IR_CAM.ARRAYS"
+#
+# INSTRUMENTS - INS
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\INS\INS.ARRAYS"
+#
+# RADIATOR - RADIATOR
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\RADIATOR\RADIATOR.ARRAYS"
 #
 # ------------ END OF INCLUDE BLOCK ------------ #
 #

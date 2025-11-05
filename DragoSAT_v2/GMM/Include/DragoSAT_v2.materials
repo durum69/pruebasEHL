@@ -16,12 +16,57 @@
 /* ---------------------------------------------- */
 
 /* MLI - MLI */
-  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\GMM\MLI\Include\MLI.materials"
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\MLI\Include\MLI.materials"
 
 /* BODY - BODY */
-  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\GMM\BODY\Include\BODY.materials"
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\BODY\Include\BODY.materials"
 
 /* SOLAR PANELS - SPS */
-  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\GMM\SPS\Include\SPS.materials"
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\SPS\Include\SPS.materials"
+
+/* IR_CAM - IR_CAM */
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\IR_CAM\Include\IR_CAM.materials"
+
+/* INSTRUMENTS - INS */
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\INS\Include\INS.materials"
+
+/* RADIATOR - RADIATOR */
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\RADIATOR\Include\RADIATOR.materials"
 
 /* ------------ END OF INCLUDE BLOCK ------------ */
+
+BULK MLI_MAT;
+DEFINE_BULK (
+    bulk = MLI_MAT,
+    description = "			",
+    density = 300.0,
+    sp_heat = 900.0,
+    type = "Isotropic",
+    cond = 0.0);
+
+BULK CFRP;
+DEFINE_BULK (
+    bulk = CFRP,
+    description = "			",
+    density = 1750.0,
+    sp_heat = 800.0,
+    type = "Orthotropic",
+    cond1 = 42.0,
+    cond2 = 42.0,
+    cond3 = 5.0);
+
+BULK Glass;
+DEFINE_BULK (
+    bulk = Glass,
+    density = 5330.0,
+    sp_heat = 310.0,
+    type = "Isotropic",
+    cond = 59.0);
+
+BULK Al_6061;
+DEFINE_BULK (
+    bulk = Al_6061,
+    density = 2700.0,
+    sp_heat = 900.0,
+    type = "Isotropic",
+    cond = 160.0);

@@ -17,7 +17,10 @@ C ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- C
 C ---------------------------------------------- C
 C
 C STRUCTURE - SPS_STR
-       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\SPS\SPS_STR\SPS_STR.EXECUTION"
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\SPS\SPS_STR\SPS_STR.EXECUTION"
+C
+C CELLS - SPS_CELL
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\SPS\SPS_CELL\SPS_CELL.EXECUTION"
 C
 C ------------ END OF INCLUDE BLOCK ------------ C
 C

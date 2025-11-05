@@ -25,3 +25,10 @@
 
 
 /* ------------ END OF INCLUDE BLOCK ------------ */
+
+GEOMETRY MLI_Down_Cut;
+MLI_Down_Cut = MLI_Down - Cilindro_Corte_copy;
+
+GEOMETRY MLI;
+MLI = MLI_Back + MLI_Down_Cut + MLI_Front + 
+    MLI_Left + MLI_Right + MLI_Up;

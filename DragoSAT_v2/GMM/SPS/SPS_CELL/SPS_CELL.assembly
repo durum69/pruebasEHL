@@ -1,0 +1,32 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: CELLS
+/* FILE NAME: assembly
+/* CREATED BY: Iordan IDR
+/* CREATED ON: 05/11/2025 11:10:14
+/* LAST UPDATED BY: Iordan IDR
+/* LAST UPDATED ON: 05/11/2025 11:10:14
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as an assembly of the    */
+/* lower hierarchy models with their parent.      */
+/* Rotation and traslation operations to relate   */
+/* different coordinate systems are only allowed  */
+/* in this file.                                  */
+/* ---------------------------------------------- */
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\SPS\SPS_CELL\SPS_CELL.GMM"
+/* ---------------------------------------------- */
+/* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
+/* ---------------------------------------------- */
+
+/* CELL_1 - SPS_CELL_1 */
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\SPS\SPS_CELL\SPS_CELL_1\SPS_CELL_1.assembly"
+
+/* CELL_2 - SPS_CELL_2 */
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\SPS\SPS_CELL\SPS_CELL_2\SPS_CELL_2.assembly"
+
+/* ------------ END OF INCLUDE BLOCK ------------ */

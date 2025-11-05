@@ -25,3 +25,6 @@
 
 
 /* ------------ END OF INCLUDE BLOCK ------------ */
+
+GEOMETRY Body_Down_Cut;
+Body_Down_Cut = Body_Panel_Down - Cilindro_Corte;

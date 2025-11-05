@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: CELLS
+/* FILE NAME: erg
+/* CREATED BY: Iordan IDR
+/* CREATED ON: 05/11/2025 11:10:14
+/* LAST UPDATED BY: Iordan IDR
+/* LAST UPDATED ON: 05/11/2025 11:10:14
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL SPS_CELL_STANDALONE
+
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\SPS\SPS_CELL\Include\SPS_CELL.materials"
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\SPS\SPS_CELL\SPS_CELL.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+SPS_CELL_STANDALONE = DUMMY_ASSEMBLY + SPS_CELL;
+
+END_MODEL
+/* ---------------------------------------------- */

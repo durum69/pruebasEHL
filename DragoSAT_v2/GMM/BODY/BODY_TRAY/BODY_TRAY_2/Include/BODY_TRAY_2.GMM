@@ -1,0 +1,50 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: Tray_2
+/* FILE NAME: GMM
+/* CREATED BY: Iordan IDR
+/* CREATED ON: 05/11/2025 11:01:01
+/* LAST UPDATED BY: Iordan IDR
+/* LAST UPDATED ON: 05/11/2025 11:01:01
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+
+GEOMETRY Body_Tray_2;
+Body_Tray_2 = SHELL_RECTANGLE (
+    point1 = [-0.125, 0.15, 0.015],
+    point2 = [-0.125, -0.15, 0.015],
+    point4 = [0.125, 0.15, 0.015],
+    sense = -1,
+    meshType1 = "regular",
+    nodes1 = 4,
+    ratio1 = 1.0,
+    meshType2 = "regular",
+    nodes2 = 4,
+    ratio2 = 1.0,
+    analysis_type = "Lumped Parameter",
+    label1 = "BODY_TRAY",
+    side1 = "Active",
+    criticality1 = "NORMAL",
+    nbase1 = 11100,
+    ndelta1 = 1,
+    opt1 = al_anod,
+    colour1 = "BLUE_CYAN",
+    side2 = "Active",
+    criticality2 = "NORMAL",
+    nbase2 = 11100,
+    ndelta2 = 1,
+    opt2 = al_anod,
+    colour2 = "BLUE_CYAN",
+    composition = "SINGLE",
+    bulk = Al_6061,
+    thick = 0.01,
+    bulk1 = [-10000.0, -10000.0, -10000.0],
+    thick1 = 0.0,
+    bulk2 = [-10000.0, -10000.0, -10000.0],
+    thick2 = 0.0,
+    through_cond = "BULK",
+    conductance = 0.0,
+    emittance = 0.0);

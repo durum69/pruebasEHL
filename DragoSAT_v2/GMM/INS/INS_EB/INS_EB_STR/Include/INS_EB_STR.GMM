@@ -1,0 +1,63 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: EB STRUCTURE
+/* FILE NAME: GMM
+/* CREATED BY: Iordan IDR
+/* CREATED ON: 05/11/2025 11:31:29
+/* LAST UPDATED BY: Iordan IDR
+/* LAST UPDATED ON: 05/11/2025 11:31:29
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+
+GEOMETRY INS_EB_STR;
+INS_EB_STR = SHELL_SCS_BOX (
+    height = 0.04,
+    xmax = 0.1,
+    ymax = 0.1,
+    xmin = 0.0,
+    ymin = 0.0,
+    sense = -1,
+    meshType1 = "regular",
+    nodes1 = 1,
+    ratio1 = 1.0,
+    meshType2 = "regular",
+    nodes2 = 1,
+    ratio2 = 1.0,
+    meshType3 = "regular",
+    nodes3 = 1,
+    ratio3 = 1.0,
+    analysis_type = "Lumped Parameter",
+    label1 = "INS_EB",
+    side1 = "Active",
+    criticality1 = "NORMAL",
+    nbase1 = 40000,
+    ndelta1 = 1,
+    opt1 = black_paint,
+    colour1 = "DARK_GREY",
+    label2 = "INS_EB",
+    side2 = "Active",
+    criticality2 = "NORMAL",
+    nbase2 = 40000,
+    ndelta2 = 1,
+    opt2 = black_paint,
+    colour2 = "DARK_GREY",
+    composition = "SINGLE",
+    bulk = Al_6061,
+    thick = 5.0e-04,
+    bulk1 = [-10000.0, -10000.0, -10000.0],
+    thick1 = 0.0,
+    bulk2 = [-10000.0, -10000.0, -10000.0],
+    thick2 = 0.0,
+    through_cond = "BULK",
+    conductance = 0.0,
+    emittance = 0.0);
+
+INS_EB_STR = TRANSLATE (
+    object_name = INS_EB_STR,
+    x_dist = 0.01,
+    y_dist = 0.02,
+    z_dist = 0.0155,
+    clear = TRUE);

@@ -16,6 +16,11 @@ C ---------------------------------------------- C
 C ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- C
 C ---------------------------------------------- C
 C
+C STR_1 - SPS_STR_1
+       $INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\DragoSAT_v2\TMM\Include\SPS\SPS_STR\SPS_STR_1\SPS_STR_1.EXECUTION"
+C
+C STR_2 - SPS_STR_2
+       $INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\DragoSAT_v2\TMM\Include\SPS\SPS_STR\SPS_STR_2\SPS_STR_2.EXECUTION"
 C
 C ------------ END OF INCLUDE BLOCK ------------ C
 C

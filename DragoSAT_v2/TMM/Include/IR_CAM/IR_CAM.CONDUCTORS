@@ -1,0 +1,32 @@
+# ---------------------------------------------- #
+# ----- FILE INFORMATION - DO NOT REMOVE ------- #
+# ---------------------------------------------- #
+#
+# MODEL NAME: IR_CAM
+# FILE NAME: CONDUCTORS
+# CREATED BY: Iordan IDR
+# CREATED ON: 05/11/2025 11:11:04
+# LAST UPDATED BY: Iordan IDR
+# LAST UPDATED ON: 05/11/2025 11:11:04
+# VERSION: v0.0
+#
+# -------------- END OF INFO BLOCK ------------- #
+#
+# ---------------------------------------------- #
+# ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
+# ---------------------------------------------- #
+#
+# CAM_STR - IR_CAM_STR
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\IR_CAM\IR_CAM_STR\IR_CAM_STR.CONDUCTORS"
+#
+# CAM_ELECTRONICS - IR_CAM_ELECT
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\IR_CAM\IR_CAM_ELECT\IR_CAM_ELECT.CONDUCTORS"
+#
+# CAM_LENS - IR_CAM_LENS
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\IR_CAM\IR_CAM_LENS\IR_CAM_LENS.CONDUCTORS"
+#
+# ------------ END OF INCLUDE BLOCK ------------ #
+#
+# ---------------------------------------------- #
+# USER-DEFINED CONDUCTORS - DO NOT REMOVE
+# ---------------------------------------------- #
