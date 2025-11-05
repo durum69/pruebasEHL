@@ -1,0 +1,26 @@
+C ---------------------------------------------- C
+C ----- FILE INFORMATION - DO NOT REMOVE ------- C
+C ---------------------------------------------- C
+C
+C MODEL NAME: SOLAR PANELS
+C FILE NAME: VARIABLES1
+C CREATED BY: Iordan Casa
+C CREATED ON: 04/11/2025 11:28:13
+C LAST UPDATED BY: Iordan Casa
+C LAST UPDATED ON: 04/11/2025 11:28:13
+C VERSION: v0.0
+C
+C -------------- END OF INFO BLOCK ------------- C
+C
+C ---------------------------------------------- C
+C ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- C
+C ---------------------------------------------- C
+C
+C STRUCTURE - SPS_STR
+       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\SPS\SPS_STR\SPS_STR.VARIABLES1"
+C
+C ------------ END OF INCLUDE BLOCK ------------ C
+C
+C ---------------------------------------------- C
+C USER-DEFINED VARIABLES1 - DO NOT REMOVE
+C ---------------------------------------------- C

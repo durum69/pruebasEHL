@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: BODY
+/* FILE NAME: erg
+/* CREATED BY: Iordan Casa
+/* CREATED ON: 04/11/2025 11:26:29
+/* LAST UPDATED BY: Iordan Casa
+/* LAST UPDATED ON: 04/11/2025 11:26:29
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL BODY_STANDALONE
+
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\DragoSAT_v2\GMM\BODY\Include\BODY.materials"
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\DragoSAT_v2\GMM\BODY\BODY.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+BODY_STANDALONE = DUMMY_ASSEMBLY + BODY;
+
+END_MODEL
+/* ---------------------------------------------- */
