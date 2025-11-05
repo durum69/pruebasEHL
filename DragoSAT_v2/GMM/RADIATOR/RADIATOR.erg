@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: RADIATOR
+/* FILE NAME: erg
+/* CREATED BY: Iordan IDR
+/* CREATED ON: 05/11/2025 11:14:16
+/* LAST UPDATED BY: Iordan IDR
+/* LAST UPDATED ON: 05/11/2025 11:14:16
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL RADIATOR_STANDALONE
+
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\RADIATOR\Include\RADIATOR.materials"
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\RADIATOR\RADIATOR.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+RADIATOR_STANDALONE = DUMMY_ASSEMBLY + RADIATOR;
+
+END_MODEL
+/* ---------------------------------------------- */

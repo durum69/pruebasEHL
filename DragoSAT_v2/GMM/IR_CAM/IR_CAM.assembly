@@ -1,0 +1,35 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: IR_CAM
+/* FILE NAME: assembly
+/* CREATED BY: Iordan IDR
+/* CREATED ON: 05/11/2025 11:11:04
+/* LAST UPDATED BY: Iordan IDR
+/* LAST UPDATED ON: 05/11/2025 11:11:04
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as an assembly of the    */
+/* lower hierarchy models with their parent.      */
+/* Rotation and traslation operations to relate   */
+/* different coordinate systems are only allowed  */
+/* in this file.                                  */
+/* ---------------------------------------------- */
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\IR_CAM\IR_CAM.GMM"
+/* ---------------------------------------------- */
+/* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
+/* ---------------------------------------------- */
+
+/* CAM_STR - IR_CAM_STR */
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\IR_CAM\IR_CAM_STR\IR_CAM_STR.assembly"
+
+/* CAM_ELECTRONICS - IR_CAM_ELECT */
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\IR_CAM\IR_CAM_ELECT\IR_CAM_ELECT.assembly"
+
+/* CAM_LENS - IR_CAM_LENS */
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\IR_CAM\IR_CAM_LENS\IR_CAM_LENS.assembly"
+
+/* ------------ END OF INCLUDE BLOCK ------------ */

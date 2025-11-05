@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: EB STRUCTURE
+/* FILE NAME: erg
+/* CREATED BY: Iordan IDR
+/* CREATED ON: 05/11/2025 11:31:29
+/* LAST UPDATED BY: Iordan IDR
+/* LAST UPDATED ON: 05/11/2025 11:31:29
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL INS_EB_STR_STANDALONE
+
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\INS\INS_EB\INS_EB_STR\Include\INS_EB_STR.materials"
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\INS\INS_EB\INS_EB_STR\INS_EB_STR.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+INS_EB_STR_STANDALONE = DUMMY_ASSEMBLY + INS_EB_STR;
+
+END_MODEL
+/* ---------------------------------------------- */

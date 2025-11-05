@@ -1,0 +1,29 @@
+C ---------------------------------------------- C
+C ----- FILE INFORMATION - DO NOT REMOVE ------- C
+C ---------------------------------------------- C
+C
+C MODEL NAME: INSTRUMENTS
+C FILE NAME: INITIAL
+C CREATED BY: Iordan IDR
+C CREATED ON: 05/11/2025 11:13:31
+C LAST UPDATED BY: Iordan IDR
+C LAST UPDATED ON: 05/11/2025 11:13:31
+C VERSION: v0.0
+C
+C -------------- END OF INFO BLOCK ------------- C
+C
+C ---------------------------------------------- C
+C ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- C
+C ---------------------------------------------- C
+C
+C ELECTRONICS BOX - INS_EB
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\INS\INS_EB\INS_EB.INITIAL"
+C
+C PAYLOAD - INS_PLD
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\INS\INS_PLD\INS_PLD.INITIAL"
+C
+C ------------ END OF INCLUDE BLOCK ------------ C
+C
+C ---------------------------------------------- C
+C USER-DEFINED INITIAL - DO NOT REMOVE
+C ---------------------------------------------- C

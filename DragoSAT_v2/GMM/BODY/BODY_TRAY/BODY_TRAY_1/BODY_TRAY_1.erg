@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: Tray_1
+/* FILE NAME: erg
+/* CREATED BY: Iordan IDR
+/* CREATED ON: 05/11/2025 11:00:42
+/* LAST UPDATED BY: Iordan IDR
+/* LAST UPDATED ON: 05/11/2025 11:00:42
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL BODY_TRAY_1_STANDALONE
+
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\BODY\BODY_TRAY\BODY_TRAY_1\Include\BODY_TRAY_1.materials"
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\BODY\BODY_TRAY\BODY_TRAY_1\BODY_TRAY_1.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+BODY_TRAY_1_STANDALONE = DUMMY_ASSEMBLY + BODY_TRAY_1;
+
+END_MODEL
+/* ---------------------------------------------- */

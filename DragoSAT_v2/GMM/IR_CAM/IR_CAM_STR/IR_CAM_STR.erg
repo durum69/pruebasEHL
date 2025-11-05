@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: CAM_STR
+/* FILE NAME: erg
+/* CREATED BY: Iordan IDR
+/* CREATED ON: 05/11/2025 11:11:40
+/* LAST UPDATED BY: Iordan IDR
+/* LAST UPDATED ON: 05/11/2025 11:11:40
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL IR_CAM_STR_STANDALONE
+
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\IR_CAM\IR_CAM_STR\Include\IR_CAM_STR.materials"
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\IR_CAM\IR_CAM_STR\IR_CAM_STR.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+IR_CAM_STR_STANDALONE = DUMMY_ASSEMBLY + IR_CAM_STR;
+
+END_MODEL
+/* ---------------------------------------------- */

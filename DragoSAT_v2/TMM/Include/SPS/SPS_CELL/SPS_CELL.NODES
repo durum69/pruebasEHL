@@ -1,0 +1,29 @@
+# ---------------------------------------------- #
+# ----- FILE INFORMATION - DO NOT REMOVE ------- #
+# ---------------------------------------------- #
+#
+# MODEL NAME: CELLS
+# FILE NAME: NODES
+# CREATED BY: Iordan IDR
+# CREATED ON: 05/11/2025 11:10:14
+# LAST UPDATED BY: Iordan IDR
+# LAST UPDATED ON: 05/11/2025 11:10:14
+# VERSION: v0.0
+#
+# -------------- END OF INFO BLOCK ------------- #
+#
+# ---------------------------------------------- #
+# ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
+# ---------------------------------------------- #
+#
+# CELL_1 - SPS_CELL_1
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\SPS\SPS_CELL\SPS_CELL_1\SPS_CELL_1.NODES"
+#
+# CELL_2 - SPS_CELL_2
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\SPS\SPS_CELL\SPS_CELL_2\SPS_CELL_2.NODES"
+#
+# ------------ END OF INCLUDE BLOCK ------------ #
+#
+# ---------------------------------------------- #
+# USER-DEFINED NODES - DO NOT REMOVE
+# ---------------------------------------------- #

@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: CAM_ELECTRONICS
+/* FILE NAME: erg
+/* CREATED BY: Iordan IDR
+/* CREATED ON: 05/11/2025 11:12:32
+/* LAST UPDATED BY: Iordan IDR
+/* LAST UPDATED ON: 05/11/2025 11:12:32
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL IR_CAM_ELECT_STANDALONE
+
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\IR_CAM\IR_CAM_ELECT\Include\IR_CAM_ELECT.materials"
+  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\GMM\IR_CAM\IR_CAM_ELECT\IR_CAM_ELECT.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+IR_CAM_ELECT_STANDALONE = DUMMY_ASSEMBLY + IR_CAM_ELECT;
+
+END_MODEL
+/* ---------------------------------------------- */

@@ -1,0 +1,61 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: PAYLOAD
+/* FILE NAME: GMM
+/* CREATED BY: Iordan IDR
+/* CREATED ON: 05/11/2025 11:14:05
+/* LAST UPDATED BY: Iordan IDR
+/* LAST UPDATED ON: 05/11/2025 11:14:05
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+
+GEOMETRY INS_PLD;
+INS_PLD = SHELL_SCS_BOX (
+    height = 0.05,
+    xmax = 0.155,
+    ymax = 0.075,
+    xmin = 0.0,
+    ymin = 0.0,
+    sense = -1,
+    meshType1 = "regular",
+    nodes1 = 1,
+    ratio1 = 1.0,
+    meshType2 = "regular",
+    nodes2 = 1,
+    ratio2 = 1.0,
+    meshType3 = "regular",
+    nodes3 = 1,
+    ratio3 = 1.0,
+    analysis_type = "Lumped Parameter",
+    label1 = "INS_PLD",
+    side1 = "Active",
+    criticality1 = "NORMAL",
+    nbase1 = 41000,
+    ndelta1 = 1,
+    colour1 = "DARK_GREEN",
+    label2 = "INS_PLD",
+    side2 = "Active",
+    criticality2 = "NORMAL",
+    nbase2 = 41000,
+    ndelta2 = 1,
+    colour2 = "DARK_GREEN",
+    composition = "SINGLE",
+    bulk = Al_6061,
+    thick = 0.015,
+    bulk1 = [-10000.0, -10000.0, -10000.0],
+    thick1 = 0.0,
+    bulk2 = [-10000.0, -10000.0, -10000.0],
+    thick2 = 0.0,
+    through_cond = "BULK",
+    conductance = 0.0,
+    emittance = 0.0);
+
+INS_PLD = TRANSLATE (
+    object_name = INS_PLD,
+    x_dist = -0.065,
+    y_dist = -0.115,
+    z_dist = -0.0445,
+    clear = TRUE);

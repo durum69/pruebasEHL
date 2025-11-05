@@ -1,0 +1,56 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: RADIATOR
+/* FILE NAME: GMM
+/* CREATED BY: Iordan IDR
+/* CREATED ON: 05/11/2025 11:14:16
+/* LAST UPDATED BY: Iordan IDR
+/* LAST UPDATED ON: 05/11/2025 11:14:16
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+
+GEOMETRY Radiator;
+Radiator = SHELL_RECTANGLE (
+    point1 = [0.0675, -0.08, 0.085],
+    point2 = [0.0675, 0.08, 0.085],
+    point4 = [-0.0675, -0.08, 0.085],
+    sense = -1,
+    meshType1 = "regular",
+    nodes1 = 3,
+    ratio1 = 1.0,
+    meshType2 = "regular",
+    nodes2 = 3,
+    ratio2 = 1.0,
+    analysis_type = "Lumped Parameter",
+    label1 = "RADIATOR",
+    side1 = "Active",
+    criticality1 = "NORMAL",
+    nbase1 = 50000,
+    ndelta1 = 1,
+    opt1 = white_paint,
+    colour1 = "ABSINTH",
+    label2 = "RADIATOR",
+    side2 = "Active",
+    criticality2 = "NORMAL",
+    nbase2 = 50000,
+    ndelta2 = 1,
+    opt2 = white_paint,
+    colour2 = "GREY_BLACK",
+    composition = "SINGLE",
+    bulk = Al_6061,
+    thick = 0.01,
+    bulk1 = [-10000.0, -10000.0, -10000.0],
+    thick1 = 0.0,
+    bulk2 = [-10000.0, -10000.0, -10000.0],
+    thick2 = 0.0,
+    through_cond = "BULK",
+    conductance = 0.0,
+    emittance = 0.0);
+
+Radiator = TRANSLATE (
+    object_name = Radiator,
+    z_dist = 5.0e-04,
+    clear = TRUE);

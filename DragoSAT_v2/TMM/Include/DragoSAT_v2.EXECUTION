@@ -1,0 +1,41 @@
+C ---------------------------------------------- C
+C ----- FILE INFORMATION - DO NOT REMOVE ------- C
+C ---------------------------------------------- C
+C
+C MODEL NAME: DRAGOSAT_V2
+C FILE NAME: EXECUTION
+C CREATED BY: Iordan Casa
+C CREATED ON: 04/11/2025 11:22:50
+C LAST UPDATED BY: Iordan Casa
+C LAST UPDATED ON: 04/11/2025 11:22:50
+C VERSION: v0.0
+C
+C -------------- END OF INFO BLOCK ------------- C
+C
+C ---------------------------------------------- C
+C ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- C
+C ---------------------------------------------- C
+C
+C MLI - MLI
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\MLI\MLI.EXECUTION"
+C
+C BODY - BODY
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\BODY\BODY.EXECUTION"
+C
+C SOLAR PANELS - SPS
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\SPS\SPS.EXECUTION"
+C
+C IR_CAM - IR_CAM
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\IR_CAM\IR_CAM.EXECUTION"
+C
+C INSTRUMENTS - INS
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\INS\INS.EXECUTION"
+C
+C RADIATOR - RADIATOR
+       $INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\DragoSAT_v2\TMM\Include\RADIATOR\RADIATOR.EXECUTION"
+C
+C ------------ END OF INCLUDE BLOCK ------------ C
+C
+C ---------------------------------------------- C
+C USER-DEFINED EXECUTION - DO NOT REMOVE
+C ---------------------------------------------- C
