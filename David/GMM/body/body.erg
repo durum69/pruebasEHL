@@ -4,10 +4,10 @@
 /*
 /* MODEL NAME: Body
 /* FILE NAME: erg
-/* CREATED BY: Iordan Dragovchev
-/* CREATED ON: 22/10/2025 13:07:49
-/* LAST UPDATED BY: Iordan Dragovchev
-/* LAST UPDATED ON: 22/10/2025 13:07:49
+/* CREATED BY: Iordan Casa
+/* CREATED ON: 21/11/2025 12:34:52
+/* LAST UPDATED BY: Iordan Casa
+/* LAST UPDATED ON: 21/11/2025 12:34:52
 /* VERSION: v0.0
 */
 /* -------------- END OF INFO BLOCK ------------- */
@@ -15,13 +15,10 @@
 /* This file is intended as standalone view of    */
 /* corresponding submodel.                        */
 /* ---------------------------------------------- */
-BEGIN_MODEL body_STANDALONE
+BEGIN_MODEL body
 
-  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\GMM\body\Include\body.materials"
-  INCLUDE "C:\Users\i.dragovchev\Desktop\proyectos\David\GMM\body\body.assembly"
-
-GEOMETRY DUMMY_ASSEMBLY;
-body_STANDALONE = DUMMY_ASSEMBLY + body;
+  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\David\GMM\Include\David.materials"
+  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\David\GMM\body\body.assembly"
 
 END_MODEL
 /* ---------------------------------------------- */

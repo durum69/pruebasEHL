@@ -4,6 +4,60 @@
 /*
 /* MODEL NAME: 565
 /* FILE NAME: assembly
+/* CREATED BY: Iordan Casa
+/* CREATED ON: 21/11/2025 12:07:05
+/* LAST UPDATED BY: Iordan Casa
+/* LAST UPDATED ON: 21/11/2025 12:07:05
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as an assembly of the    */
+/* lower hierarchy models with their parent.      */
+/* Rotation and traslation operations to relate   */
+/* different coordinate systems are only allowed  */
+/* in this file.                                  */
+/* ---------------------------------------------- */
+  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\456\GMM\565\Include\565.GMM"
+/* ---------------------------------------------- */
+/* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
+/* ---------------------------------------------- */
+
+
+/* ------------ END OF INCLUDE BLOCK ------------ */
+*/
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: 565
+/* FILE NAME: assembly
+/* CREATED BY: Iordan Casa
+/* CREATED ON: 21/11/2025 12:06:47
+/* LAST UPDATED BY: Iordan Casa
+/* LAST UPDATED ON: 21/11/2025 12:06:47
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as an assembly of the    */
+/* lower hierarchy models with their parent.      */
+/* Rotation and traslation operations to relate   */
+/* different coordinate systems are only allowed  */
+/* in this file.                                  */
+/* ---------------------------------------------- */
+  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\456\GMM\565\Include\565.GMM"
+/* ---------------------------------------------- */
+/* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
+/* ---------------------------------------------- */
+
+
+/* ------------ END OF INCLUDE BLOCK ------------ */
+*/
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: 565
+/* FILE NAME: assembly
 /* CREATED BY: Iordan Dragovchev
 /* CREATED ON: 01/11/2025 16:47:47
 /* LAST UPDATED BY: Iordan Dragovchev

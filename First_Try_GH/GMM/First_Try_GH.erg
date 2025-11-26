@@ -1,0 +1,24 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: First_Try_GH
+/* FILE NAME: erg
+/* CREATED BY: Iordan Casa
+/* CREATED ON: 26/11/2025 11:46:57
+/* LAST UPDATED BY: Iordan Casa
+/* LAST UPDATED ON: 26/11/2025 11:46:57
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL First_Try_GH
+
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\First_Try_GH\GMM\Include\First_Try_GH.materials"
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\First_Try_GH\GMM\First_Try_GH.assembly"
+
+END_MODEL
+/* ---------------------------------------------- */

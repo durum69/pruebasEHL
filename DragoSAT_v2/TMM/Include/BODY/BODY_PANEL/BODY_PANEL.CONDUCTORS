@@ -1,0 +1,268 @@
+# ---------------------------------------------- #
+# ----- FILE INFORMATION - DO NOT REMOVE ------- #
+# ---------------------------------------------- #
+#
+# MODEL NAME: PANEL
+# FILE NAME: CONDUCTORS
+# CREATED BY: Iordan Casa
+# CREATED ON: 04/11/2025 11:26:48
+# LAST UPDATED BY: Iordan Casa
+# LAST UPDATED ON: 04/11/2025 11:26:48
+# VERSION: v0.0
+#
+# -------------- END OF INFO BLOCK ------------- #
+#
+# ---------------------------------------------- #
+# ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
+# ---------------------------------------------- #
+#
+#
+# ------------ END OF INCLUDE BLOCK ------------ #
+#
+# ---------------------------------------------- #
+# USER-DEFINED CONDUCTORS - DO NOT REMOVE
+# ---------------------------------------------- #
+
+# Conductores GL añadidos automáticamente
+# Fecha: 2025-11-17 12:30:47
+# Total: 236 conductores
+
+    GL(10000,10001) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10000,10005) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10001,10002) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10001,10006) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10002,10003) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10002,10007) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10003,10004) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10003,10008) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10004,10009) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10005,10006) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10005,10010) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10006,10007) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10006,10011) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10007,10008) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10007,10012) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10008,10009) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10008,10013) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10009,10014) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10010,10011) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10010,10015) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10011,10012) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10011,10016) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10012,10013) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10012,10017) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10013,10014) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10013,10018) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10014,10019) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10015,10016) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10015,10020) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10016,10017) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10016,10021) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10017,10018) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10017,10022) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10018,10019) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10018,10023) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10019,10024) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Front
+    GL(10020,10021) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10021,10022) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10022,10023) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10023,10024) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Front
+    GL(10100,10101) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10100,10105) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10101,10102) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10101,10106) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10102,10103) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10102,10107) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10103,10104) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10103,10108) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10104,10109) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10105,10106) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10105,10110) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10106,10107) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10106,10111) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10107,10108) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10107,10112) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10108,10109) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10108,10113) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10109,10114) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10110,10111) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10110,10115) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10111,10112) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10111,10116) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10112,10113) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10112,10117) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10113,10114) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10113,10118) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10114,10119) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10115,10116) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10115,10120) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10116,10117) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10116,10121) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10117,10118) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10117,10122) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10118,10119) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10118,10123) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10119,10124) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Right
+    GL(10120,10121) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10121,10122) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10122,10123) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10123,10124) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Right
+    GL(10300,10301) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10300,10305) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10301,10302) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10301,10306) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10302,10303) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10302,10307) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10303,10304) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10303,10308) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10304,10309) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10305,10306) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10305,10310) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10306,10307) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10306,10311) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10307,10308) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10307,10312) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10308,10309) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10308,10313) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10309,10314) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10310,10311) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10310,10315) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10311,10312) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10311,10316) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10312,10313) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10312,10317) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10313,10314) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10313,10318) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10314,10319) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10315,10316) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10315,10320) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10316,10317) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10316,10321) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10317,10318) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10317,10322) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10318,10319) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10318,10323) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10319,10324) = k_Al_6061 * 1.999858D-02; # from primitive Body_Panel_Back
+    GL(10320,10321) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10321,10322) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10322,10323) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10323,10324) = k_Al_6061 * 4.999911D-03; # from primitive Body_Panel_Back
+    GL(10400,10401) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10400,10405) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10401,10402) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10401,10406) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10402,10403) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10402,10407) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10403,10404) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10403,10408) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10404,10409) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10405,10406) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10405,10410) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10406,10407) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10406,10411) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10407,10408) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10407,10412) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10408,10409) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10408,10413) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10409,10414) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10410,10411) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10410,10415) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10411,10412) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10411,10416) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10412,10413) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10412,10417) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10413,10414) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10413,10418) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10414,10419) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10415,10416) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10415,10420) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10416,10417) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10416,10421) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10417,10418) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10417,10422) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10418,10419) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10418,10423) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10419,10424) = k_Al_6061 * 1.666558D-02; # from primitive Body_Panel_Left
+    GL(10420,10421) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10421,10422) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10422,10423) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10423,10424) = k_Al_6061 * 5.999859D-03; # from primitive Body_Panel_Left
+    GL(10500,10501) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10500,10505) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10501,10502) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10501,10506) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10502,10503) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10502,10507) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10503,10504) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10503,10508) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10504,10509) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10505,10506) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10505,10510) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10506,10507) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10506,10511) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10507,10508) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10507,10512) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10508,10509) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10508,10513) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10509,10514) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10510,10511) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10510,10515) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10511,10512) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10511,10516) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10512,10513) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10512,10517) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10513,10514) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10513,10518) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10514,10519) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10515,10516) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10515,10520) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10516,10517) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10516,10521) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10517,10518) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10517,10522) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10518,10519) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10518,10523) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10519,10524) = k_Al_6061 * 8.333029D-03; # from primitive Body_Panel_Up
+    GL(10520,10521) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10521,10522) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10522,10523) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10523,10524) = k_Al_6061 * 1.199937D-02; # from primitive Body_Panel_Up
+    GL(10600,10601) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10600,10605) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10601,10602) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10601,10606) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10602,10603) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10602,10607) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10603,10604) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10603,10608) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10604,10609) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10605,10606) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10605,10610) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10606,10607) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10606,10611) = k_Al_6061 * 8.115984D-03; # from primitive Body_Panel_Down
+    GL(10607,10608) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10608,10609) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10608,10613) = k_Al_6061 * 8.115984D-03; # from primitive Body_Panel_Down
+    GL(10609,10614) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10610,10611) = k_Al_6061 * 1.212118D-02; # from primitive Body_Panel_Down
+    GL(10610,10615) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10611,10616) = k_Al_6061 * 8.115984D-03; # from primitive Body_Panel_Down
+    GL(10613,10614) = k_Al_6061 * 1.212118D-02; # from primitive Body_Panel_Down
+    GL(10613,10618) = k_Al_6061 * 8.115984D-03; # from primitive Body_Panel_Down
+    GL(10614,10619) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10615,10616) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10615,10620) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10616,10617) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10616,10621) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10617,10618) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10617,10622) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10618,10619) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10618,10623) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10619,10624) = k_Al_6061 * 8.340573D-03; # from primitive Body_Panel_Down
+    GL(10620,10621) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10621,10622) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10622,10623) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+    GL(10623,10624) = k_Al_6061 * 1.201043D-02; # from primitive Body_Panel_Down
+
+
+# ---------------------------------------------- #

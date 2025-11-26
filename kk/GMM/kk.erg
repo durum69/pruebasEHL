@@ -1,0 +1,24 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: kkk
+/* FILE NAME: erg
+/* CREATED BY: Iordan Casa
+/* CREATED ON: 08/11/2025 16:24:34
+/* LAST UPDATED BY: Iordan Casa
+/* LAST UPDATED ON: 08/11/2025 16:24:34
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL kk
+
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\kk\GMM\Include\kk.materials"
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\kk\GMM\kk.assembly"
+
+END_MODEL
+/* ---------------------------------------------- */

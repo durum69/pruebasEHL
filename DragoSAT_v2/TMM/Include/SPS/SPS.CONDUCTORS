@@ -1,0 +1,154 @@
+# ---------------------------------------------- #
+# ----- FILE INFORMATION - DO NOT REMOVE ------- #
+# ---------------------------------------------- #
+#
+# MODEL NAME: SOLAR PANELS
+# FILE NAME: CONDUCTORS
+# CREATED BY: Iordan Casa
+# CREATED ON: 04/11/2025 11:28:13
+# LAST UPDATED BY: Iordan Casa
+# LAST UPDATED ON: 04/11/2025 11:28:13
+# VERSION: v0.0
+#
+# -------------- END OF INFO BLOCK ------------- #
+#
+# ---------------------------------------------- #
+# ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
+# ---------------------------------------------- #
+#
+# STRUCTURE - SPS_STR
+       $INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\SPS\SPS_STR\SPS_STR.CONDUCTORS"
+#
+# ------------ END OF INCLUDE BLOCK ------------ #
+#
+# ---------------------------------------------- #
+# USER-DEFINED CONDUCTORS - DO NOT REMOVE
+# ---------------------------------------------- #
+
+# Conductores GL añadidos automáticamente
+# Fecha: 2025-11-17 12:30:47
+# Total: 120 conductores
+
+    GL(21000,21001) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21000,21006) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21001,21002) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21001,21007) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21002,21003) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21002,21008) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21003,21004) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21003,21009) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21004,21005) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21004,21010) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21005,21011) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21006,21007) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21006,21012) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21007,21008) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21007,21013) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21008,21009) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21008,21014) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21009,21010) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21009,21015) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21010,21011) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21010,21016) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21011,21017) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21012,21013) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21012,21018) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21013,21014) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21013,21019) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21014,21015) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21014,21020) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21015,21016) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21015,21021) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21016,21017) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21016,21022) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21017,21023) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21018,21019) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21018,21024) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21019,21020) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21019,21025) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21020,21021) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21020,21026) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21021,21022) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21021,21027) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21022,21023) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21022,21028) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21023,21029) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21024,21025) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21024,21030) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21025,21026) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21025,21031) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21026,21027) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21026,21032) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21027,21028) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21027,21033) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21028,21029) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21028,21034) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21029,21035) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_1
+    GL(21030,21031) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21031,21032) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21032,21033) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21033,21034) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21034,21035) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_1
+    GL(21100,21101) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21100,21106) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21101,21102) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21101,21107) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21102,21103) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21102,21108) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21103,21104) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21103,21109) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21104,21105) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21104,21110) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21105,21111) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21106,21107) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21106,21112) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21107,21108) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21107,21113) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21108,21109) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21108,21114) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21109,21110) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21109,21115) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21110,21111) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21110,21116) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21111,21117) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21112,21113) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21112,21118) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21113,21114) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21113,21119) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21114,21115) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21114,21120) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21115,21116) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21115,21121) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21116,21117) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21116,21122) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21117,21123) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21118,21119) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21118,21124) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21119,21120) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21119,21125) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21120,21121) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21120,21126) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21121,21122) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21121,21127) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21122,21123) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21122,21128) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21123,21129) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21124,21125) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21124,21130) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21125,21126) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21125,21131) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21126,21127) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21126,21132) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21127,21128) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21127,21133) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21128,21129) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21128,21134) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21129,21135) = k_Al_6061 * 8.999279D-03; # from primitive SPS_CELL_2
+    GL(21130,21131) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21131,21132) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21132,21133) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21133,21134) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+    GL(21134,21135) = k_Al_6061 * 9.999911D-04; # from primitive SPS_CELL_2
+
+
+# ---------------------------------------------- #

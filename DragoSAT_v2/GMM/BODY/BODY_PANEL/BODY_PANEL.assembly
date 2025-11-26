@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: PANEL
+/* FILE NAME: assembly
+/* CREATED BY: Iordan Casa
+/* CREATED ON: 04/11/2025 11:26:48
+/* LAST UPDATED BY: Iordan Casa
+/* LAST UPDATED ON: 04/11/2025 11:26:48
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as an assembly of the    */
+/* lower hierarchy models with their parent.      */
+/* Rotation and traslation operations to relate   */
+/* different coordinate systems are only allowed  */
+/* in this file.                                  */
+/* ---------------------------------------------- */
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\DragoSAT_v2\GMM\BODY\BODY_PANEL\Include\BODY_PANEL.GMM"
+/* ---------------------------------------------- */
+/* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
+/* ---------------------------------------------- */
+
+
+/* ------------ END OF INCLUDE BLOCK ------------ */

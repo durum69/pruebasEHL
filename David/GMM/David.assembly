@@ -18,15 +18,15 @@
 /* different coordinate systems are only allowed  */
 /* in this file.                                  */
 /* ---------------------------------------------- */
-  INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\David\GMM\David.GMM"
+  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\David\GMM\David.GMM"
 /* ---------------------------------------------- */
 /* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
 /* ---------------------------------------------- */
 
-/* Body - body */
-  INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\David\GMM\body\body.assembly"
-
 /* antena - ant */
-  INCLUDE "C:/Users/i.dragovchev/Desktop/proyectos\David\GMM\ant\ant.assembly"
+  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\David\GMM\ant\ant.assembly"
+
+/* Body - body */
+  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\David\GMM\body\body.assembly"
 
 /* ------------ END OF INCLUDE BLOCK ------------ */

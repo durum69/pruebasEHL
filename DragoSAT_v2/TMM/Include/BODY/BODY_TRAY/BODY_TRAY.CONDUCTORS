@@ -1,0 +1,80 @@
+# ---------------------------------------------- #
+# ----- FILE INFORMATION - DO NOT REMOVE ------- #
+# ---------------------------------------------- #
+#
+# MODEL NAME: TRAY
+# FILE NAME: CONDUCTORS
+# CREATED BY: Iordan Casa
+# CREATED ON: 04/11/2025 11:27:43
+# LAST UPDATED BY: Iordan Casa
+# LAST UPDATED ON: 04/11/2025 11:27:43
+# VERSION: v0.0
+#
+# -------------- END OF INFO BLOCK ------------- #
+#
+# ---------------------------------------------- #
+# ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
+# ---------------------------------------------- #
+#
+#
+# ------------ END OF INCLUDE BLOCK ------------ #
+#
+# ---------------------------------------------- #
+# USER-DEFINED CONDUCTORS - DO NOT REMOVE
+# ---------------------------------------------- #
+
+# Conductores GL añadidos automáticamente
+# Fecha: 2025-11-17 12:30:47
+# Total: 48 conductores
+
+    GL(11000,11001) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_1
+    GL(11000,11004) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_1
+    GL(11001,11002) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_1
+    GL(11001,11005) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_1
+    GL(11002,11003) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_1
+    GL(11002,11006) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_1
+    GL(11003,11007) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_1
+    GL(11004,11005) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_1
+    GL(11004,11008) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_1
+    GL(11005,11006) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_1
+    GL(11005,11009) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_1
+    GL(11006,11007) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_1
+    GL(11006,11010) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_1
+    GL(11007,11011) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_1
+    GL(11008,11009) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_1
+    GL(11008,11012) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_1
+    GL(11009,11010) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_1
+    GL(11009,11013) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_1
+    GL(11010,11011) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_1
+    GL(11010,11014) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_1
+    GL(11011,11015) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_1
+    GL(11012,11013) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_1
+    GL(11013,11014) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_1
+    GL(11014,11015) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_1
+    GL(11100,11101) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_2
+    GL(11100,11104) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_2
+    GL(11101,11102) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_2
+    GL(11101,11105) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_2
+    GL(11102,11103) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_2
+    GL(11102,11106) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_2
+    GL(11103,11107) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_2
+    GL(11104,11105) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_2
+    GL(11104,11108) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_2
+    GL(11105,11106) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_2
+    GL(11105,11109) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_2
+    GL(11106,11107) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_2
+    GL(11106,11110) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_2
+    GL(11107,11111) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_2
+    GL(11108,11109) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_2
+    GL(11108,11112) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_2
+    GL(11109,11110) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_2
+    GL(11109,11113) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_2
+    GL(11110,11111) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_2
+    GL(11110,11114) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_2
+    GL(11111,11115) = k_Al_6061 * 1.199937D-02; # from primitive Body_Tray_2
+    GL(11112,11113) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_2
+    GL(11113,11114) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_2
+    GL(11114,11115) = k_Al_6061 * 8.333029D-03; # from primitive Body_Tray_2
+
+
+# ---------------------------------------------- #

@@ -1,0 +1,32 @@
+================================================================================
+CLASIFICACIÓN AUTOMÁTICA DE CONDUCTORES GL
+ESATAN-TMS - Modelos Jerárquicos
+Fecha: 2025-11-17 10:41:23
+================================================================================
+
+RESUMEN GENERAL
+--------------------------------------------------------------------------------
+Líneas GL procesadas:        576
+Conductores clasificados:    576
+Conductores no clasificados: 0
+Archivos generados:          1
+
+================================================================================
+DISTRIBUCIÓN POR ARCHIVO .CONDUCTORS
+================================================================================
+
+Archivo: kk.CONDUCTORS
+Ruta:    C:\Users\aleks\Desktop\Projects_ELH\kk\TMM\kk\Include\kk.CONDUCTORS
+Total:   576 conductores GL
+--------------------------------------------------------------------------------
+  Nivel 0: 576 conductores
+    → GL(7, 8) | Modelo: kkk
+    → GL(7, 9) | Modelo: kkk
+    → GL(8, 10) | Modelo: kkk
+    → GL(9, 10) | Modelo: kkk
+    → GL(100, 150) | Modelo: kkk
+    ... y 571 más
+
+================================================================================
+FIN DEL REPORTE
+================================================================================

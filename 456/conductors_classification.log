@@ -1,0 +1,58 @@
+================================================================================
+CLASIFICACIÓN AUTOMÁTICA DE CONDUCTORES GL
+ESATAN-TMS - Modelos Jerárquicos
+Modelo: 456
+Fecha: 2025-11-17 12:46:14
+================================================================================
+
+RESUMEN GENERAL
+--------------------------------------------------------------------------------
+Líneas GL procesadas:        576
+Conductores clasificados:    576
+Conductores no clasificados: 0
+Archivos modificados:        3
+Errores:                     0
+
+================================================================================
+DISTRIBUCIÓN POR ARCHIVO .CONDUCTORS
+================================================================================
+
+Archivo: 565.CONDUCTORS
+Ruta:    C:\Users\aleks\Desktop\Projects_ELH\456\TMM\Include\565\565.CONDUCTORS
+Total:   284 conductores GL añadidos
+--------------------------------------------------------------------------------
+  Nivel 1: 284 conductores
+    → GL(10000, 10001) | Modelo: 565
+    → GL(10000, 10005) | Modelo: 565
+    → GL(10001, 10002) | Modelo: 565
+    → GL(10001, 10006) | Modelo: 565
+    → GL(10002, 10003) | Modelo: 565
+    ... y 279 más
+
+Archivo: 7899.CONDUCTORS
+Ruta:    C:\Users\aleks\Desktop\Projects_ELH\456\TMM\Include\7899\7899.CONDUCTORS
+Total:   96 conductores GL añadidos
+--------------------------------------------------------------------------------
+  Nivel 1: 96 conductores
+    → GL(7, 8) | Modelo: 7899
+    → GL(7, 9) | Modelo: 7899
+    → GL(8, 10) | Modelo: 7899
+    → GL(9, 10) | Modelo: 7899
+    → GL(100, 150) | Modelo: 7899
+    ... y 91 más
+
+Archivo: 8.CONDUCTORS
+Ruta:    C:\Users\aleks\Desktop\Projects_ELH\456\TMM\Include\8\8.CONDUCTORS
+Total:   196 conductores GL añadidos
+--------------------------------------------------------------------------------
+  Nivel 1: 196 conductores
+    → GL(20000, 20001) | Modelo: 88
+    → GL(20000, 20004) | Modelo: 88
+    → GL(20001, 20002) | Modelo: 88
+    → GL(20001, 20005) | Modelo: 88
+    → GL(20002, 20003) | Modelo: 88
+    ... y 191 más
+
+================================================================================
+FIN DEL REPORTE
+================================================================================

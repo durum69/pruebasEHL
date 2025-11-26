@@ -1,0 +1,27 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: mmm
+/* FILE NAME: erg
+/* CREATED BY: Iordan Casa
+/* CREATED ON: 14/11/2025 13:01:18
+/* LAST UPDATED BY: Iordan Casa
+/* LAST UPDATED ON: 14/11/2025 13:01:18
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL mmm_STANDALONE
+
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\DragoSAT_v2\GMM\Include\DragoSAT_v2.materials"
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\DragoSAT_v2\GMM\mmm\mmm.assembly"
+
+GEOMETRY DUMMY_ASSEMBLY;
+mmm_STANDALONE = DUMMY_ASSEMBLY + mmm;
+
+END_MODEL
+/* ---------------------------------------------- */

@@ -1,0 +1,82 @@
+================================================================================
+CLASIFICACIÓN AUTOMÁTICA DE CONDUCTORES GL
+ESATAN-TMS - Modelos Jerárquicos
+Modelo: DragoSAT_v2
+Fecha: 2025-11-17 12:30:47
+================================================================================
+
+RESUMEN GENERAL
+--------------------------------------------------------------------------------
+Líneas GL procesadas:        576
+Conductores clasificados:    576
+Conductores no clasificados: 0
+Archivos modificados:        5
+Errores:                     0
+
+================================================================================
+DISTRIBUCIÓN POR ARCHIVO .CONDUCTORS
+================================================================================
+
+Archivo: BODY_PANEL.CONDUCTORS
+Ruta:    C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\BODY\BODY_PANEL\BODY_PANEL.CONDUCTORS
+Total:   236 conductores GL añadidos
+--------------------------------------------------------------------------------
+  Nivel 2: 236 conductores
+    → GL(10000, 10001) | Modelo: PANEL
+    → GL(10000, 10005) | Modelo: PANEL
+    → GL(10001, 10002) | Modelo: PANEL
+    → GL(10001, 10006) | Modelo: PANEL
+    → GL(10002, 10003) | Modelo: PANEL
+    ... y 231 más
+
+Archivo: BODY_TRAY.CONDUCTORS
+Ruta:    C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\BODY\BODY_TRAY\BODY_TRAY.CONDUCTORS
+Total:   48 conductores GL añadidos
+--------------------------------------------------------------------------------
+  Nivel 2: 48 conductores
+    → GL(11000, 11001) | Modelo: TRAY
+    → GL(11000, 11004) | Modelo: TRAY
+    → GL(11001, 11002) | Modelo: TRAY
+    → GL(11001, 11005) | Modelo: TRAY
+    → GL(11002, 11003) | Modelo: TRAY
+    ... y 43 más
+
+Archivo: MLI.CONDUCTORS
+Ruta:    C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\MLI\MLI.CONDUCTORS
+Total:   96 conductores GL añadidos
+--------------------------------------------------------------------------------
+  Nivel 1: 96 conductores
+    → GL(7, 8) | Modelo: MLI
+    → GL(7, 9) | Modelo: MLI
+    → GL(8, 10) | Modelo: MLI
+    → GL(9, 10) | Modelo: MLI
+    → GL(100, 150) | Modelo: MLI
+    ... y 91 más
+
+Archivo: SPS.CONDUCTORS
+Ruta:    C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\SPS\SPS.CONDUCTORS
+Total:   120 conductores GL añadidos
+--------------------------------------------------------------------------------
+  Nivel 1: 120 conductores
+    → GL(21000, 21001) | Modelo: SOLAR PANELS
+    → GL(21000, 21006) | Modelo: SOLAR PANELS
+    → GL(21001, 21002) | Modelo: SOLAR PANELS
+    → GL(21001, 21007) | Modelo: SOLAR PANELS
+    → GL(21002, 21003) | Modelo: SOLAR PANELS
+    ... y 115 más
+
+Archivo: SPS_STR.CONDUCTORS
+Ruta:    C:\Users\aleks\Desktop\Projects_ELH\DragoSAT_v2\TMM\Include\SPS\SPS_STR\SPS_STR.CONDUCTORS
+Total:   76 conductores GL añadidos
+--------------------------------------------------------------------------------
+  Nivel 2: 76 conductores
+    → GL(20000, 20001) | Modelo: STRUCTURE
+    → GL(20000, 20004) | Modelo: STRUCTURE
+    → GL(20001, 20002) | Modelo: STRUCTURE
+    → GL(20001, 20005) | Modelo: STRUCTURE
+    → GL(20002, 20003) | Modelo: STRUCTURE
+    ... y 71 más
+
+================================================================================
+FIN DEL REPORTE
+================================================================================

@@ -1,0 +1,24 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: DRAGOSAT_V2
+/* FILE NAME: erg
+/* CREATED BY: Iordan Casa
+/* CREATED ON: 04/11/2025 11:22:50
+/* LAST UPDATED BY: Iordan Casa
+/* LAST UPDATED ON: 04/11/2025 11:22:50
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as standalone view of    */
+/* corresponding submodel.                        */
+/* ---------------------------------------------- */
+BEGIN_MODEL DragoSAT_v2
+
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\DragoSAT_v2\GMM\Include\DragoSAT_v2.materials"
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\DragoSAT_v2\GMM\DragoSAT_v2.assembly"
+
+END_MODEL
+/* ---------------------------------------------- */

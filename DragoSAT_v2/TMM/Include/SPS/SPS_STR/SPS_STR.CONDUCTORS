@@ -1,0 +1,108 @@
+# ---------------------------------------------- #
+# ----- FILE INFORMATION - DO NOT REMOVE ------- #
+# ---------------------------------------------- #
+#
+# MODEL NAME: STRUCTURE
+# FILE NAME: CONDUCTORS
+# CREATED BY: Iordan Casa
+# CREATED ON: 04/11/2025 11:28:30
+# LAST UPDATED BY: Iordan Casa
+# LAST UPDATED ON: 04/11/2025 11:28:30
+# VERSION: v0.0
+#
+# -------------- END OF INFO BLOCK ------------- #
+#
+# ---------------------------------------------- #
+# ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- #
+# ---------------------------------------------- #
+#
+#
+# ------------ END OF INCLUDE BLOCK ------------ #
+#
+# ---------------------------------------------- #
+# USER-DEFINED CONDUCTORS - DO NOT REMOVE
+# ---------------------------------------------- #
+
+# Conductores GL añadidos automáticamente
+# Fecha: 2025-11-17 12:30:47
+# Total: 76 conductores
+
+    GL(20000,20001) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20000,20004) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20001,20002) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20001,20005) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20002,20003) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20002,20006) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20003,20007) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20004,20005) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20004,20008) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20005,20006) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20005,20009) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20006,20007) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20006,20010) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20007,20011) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20008,20009) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20008,20012) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20009,20010) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20009,20013) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20010,20011) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20010,20014) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20011,20015) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20012,20013) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20012,20016) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20013,20014) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20013,20017) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20014,20015) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20014,20018) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20015,20019) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20016,20017) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20016,20020) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20017,20018) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20017,20021) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20018,20019) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20018,20022) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20019,20023) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_1
+    GL(20020,20021) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20021,20022) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20022,20023) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_1
+    GL(20100,20101) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20100,20104) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20101,20102) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20101,20105) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20102,20103) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20102,20106) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20103,20107) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20104,20105) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20104,20108) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20105,20106) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20105,20109) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20106,20107) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20106,20110) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20107,20111) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20108,20109) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20108,20112) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20109,20110) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20109,20113) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20110,20111) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20110,20114) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20111,20115) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20112,20113) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20112,20116) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20113,20114) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20113,20117) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20114,20115) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20114,20118) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20115,20119) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20116,20117) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20116,20120) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20117,20118) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20117,20121) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20118,20119) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20118,20122) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20119,20123) = k_Al_6061 * 8.437319D-03; # from primitive SPS_STR_2
+    GL(20120,20121) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20121,20122) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+    GL(20122,20123) = k_Al_6061 * 2.666486D-02; # from primitive SPS_STR_2
+
+
+# ---------------------------------------------- #

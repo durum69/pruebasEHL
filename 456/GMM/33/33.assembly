@@ -4,6 +4,33 @@
 /*
 /* MODEL NAME: 333
 /* FILE NAME: assembly
+/* CREATED BY: Iordan Casa
+/* CREATED ON: 21/11/2025 11:19:12
+/* LAST UPDATED BY: Iordan Casa
+/* LAST UPDATED ON: 21/11/2025 11:19:12
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as an assembly of the    */
+/* lower hierarchy models with their parent.      */
+/* Rotation and traslation operations to relate   */
+/* different coordinate systems are only allowed  */
+/* in this file.                                  */
+/* ---------------------------------------------- */
+  INCLUDE "C:\Users\aleks\Desktop\Projects_ELH\456\GMM\33\Include\33.GMM"
+/* ---------------------------------------------- */
+/* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
+/* ---------------------------------------------- */
+
+
+/* ------------ END OF INCLUDE BLOCK ------------ */
+*/
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: 333
+/* FILE NAME: assembly
 /* CREATED BY: Pedro Porras
 /* CREATED ON: 01/11/2025 17:16:10
 /* LAST UPDATED BY: Pedro Porras

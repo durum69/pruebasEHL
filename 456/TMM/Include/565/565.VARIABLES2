@@ -4,10 +4,10 @@ C ---------------------------------------------- C
 C
 C MODEL NAME: 565
 C FILE NAME: VARIABLES2
-C CREATED BY: Iordan Dragovchev
-C CREATED ON: 01/11/2025 16:47:47
-C LAST UPDATED BY: Iordan Dragovchev
-C LAST UPDATED ON: 01/11/2025 16:47:47
+C CREATED BY: Iordan Casa
+C CREATED ON: 21/11/2025 12:07:06
+C LAST UPDATED BY: Iordan Casa
+C LAST UPDATED ON: 21/11/2025 12:07:06
 C VERSION: v0.0
 C
 C -------------- END OF INFO BLOCK ------------- C
@@ -18,6 +18,14 @@ C ---------------------------------------------- C
 C
 C
 C ------------ END OF INCLUDE BLOCK ------------ C
+C
+C ---------------------------------------------- C
+C USER-DEFINED VARIABLES2 - DO NOT REMOVE
+C ---------------------------------------------- C
+C
+C ---------------------------------------------- C
+C USER-DEFINED VARIABLES2 - DO NOT REMOVE
+C ---------------------------------------------- C
 C
 C ---------------------------------------------- C
 C USER-DEFINED VARIABLES2 - DO NOT REMOVE

@@ -1,0 +1,32 @@
+/* ---------------------------------------------- */
+/* ----- FILE INFORMATION - DO NOT REMOVE ------- */
+/* ---------------------------------------------- */
+/*
+/* MODEL NAME: BODY
+/* FILE NAME: assembly
+/* CREATED BY: Iordan Casa
+/* CREATED ON: 04/11/2025 11:26:29
+/* LAST UPDATED BY: Iordan Casa
+/* LAST UPDATED ON: 04/11/2025 11:26:29
+/* VERSION: v0.0
+*/
+/* -------------- END OF INFO BLOCK ------------- */
+/* ---------------------------------------------- */
+/* This file is intended as an assembly of the    */
+/* lower hierarchy models with their parent.      */
+/* Rotation and traslation operations to relate   */
+/* different coordinate systems are only allowed  */
+/* in this file.                                  */
+/* ---------------------------------------------- */
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\DragoSAT_v2\GMM\BODY\BODY.GMM"
+/* ---------------------------------------------- */
+/* ----- INCLUDE STATEMENTS - DO NOT REMOVE ----- */
+/* ---------------------------------------------- */
+
+/* PANEL - BODY_PANEL */
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\DragoSAT_v2\GMM\BODY\BODY_PANEL\BODY_PANEL.assembly"
+
+/* TRAY - BODY_TRAY */
+  INCLUDE "C:/Users/aleks/Desktop/Projects_ELH\DragoSAT_v2\GMM\BODY\BODY_TRAY\BODY_TRAY.assembly"
+
+/* ------------ END OF INCLUDE BLOCK ------------ */

@@ -22,3 +22,107 @@
 # ---------------------------------------------- #
 # USER-DEFINED CONDUCTORS - DO NOT REMOVE
 # ---------------------------------------------- #
+
+# GL conductors added automatically
+ Date: 2025-11-17 12:46:14
+# Total: 96 conductors
+
+    GL(7,8) = k1_CFRP * 1.40668D-03; # from primitive IR_CAM_STR
+    GL(7,9) = k2_CFRP * 2.843238D-03; # from primitive IR_CAM_STR
+    GL(8,10) = k2_CFRP * 2.843238D-03; # from primitive IR_CAM_STR
+    GL(9,10) = k1_CFRP * 1.40668D-03; # from primitive IR_CAM_STR
+    GL(100,150) = 3.4D-03 * CNDFN1(T100, T150, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(101,151) = 3.4D-03 * CNDFN1(T101, T151, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(102,152) = 3.4D-03 * CNDFN1(T102, T152, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(103,153) = 3.4D-03 * CNDFN1(T103, T153, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(104,154) = 3.4D-03 * CNDFN1(T104, T154, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(105,155) = 3.4D-03 * CNDFN1(T105, T155, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(106,156) = 3.4D-03 * CNDFN1(T106, T156, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(107,157) = 3.4D-03 * CNDFN1(T107, T157, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(108,158) = 3.4D-03 * CNDFN1(T108, T158, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(109,159) = 3.4D-03 * CNDFN1(T109, T159, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(110,160) = 3.4D-03 * CNDFN1(T110, T160, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(111,161) = 3.4D-03 * CNDFN1(T111, T161, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(112,162) = 3.4D-03 * CNDFN1(T112, T162, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(113,163) = 3.4D-03 * CNDFN1(T113, T163, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(114,164) = 3.4D-03 * CNDFN1(T114, T164, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(115,165) = 3.4D-03 * CNDFN1(T115, T165, sh_MLI_k_through, 1); # from primitive MLI_Front
+    GL(200,250) = 2.86875D-03 * CNDFN1(T200, T250, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(201,251) = 2.86875D-03 * CNDFN1(T201, T251, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(202,252) = 2.86875D-03 * CNDFN1(T202, T252, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(203,253) = 2.86875D-03 * CNDFN1(T203, T253, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(204,254) = 2.86875D-03 * CNDFN1(T204, T254, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(205,255) = 2.86875D-03 * CNDFN1(T205, T255, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(206,256) = 2.86875D-03 * CNDFN1(T206, T256, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(207,257) = 2.86875D-03 * CNDFN1(T207, T257, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(208,258) = 2.86875D-03 * CNDFN1(T208, T258, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(209,259) = 2.86875D-03 * CNDFN1(T209, T259, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(210,260) = 2.86875D-03 * CNDFN1(T210, T260, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(211,261) = 2.86875D-03 * CNDFN1(T211, T261, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(212,262) = 2.86875D-03 * CNDFN1(T212, T262, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(213,263) = 2.86875D-03 * CNDFN1(T213, T263, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(214,264) = 2.86875D-03 * CNDFN1(T214, T264, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(215,265) = 2.86875D-03 * CNDFN1(T215, T265, sh_MLI_k_through, 1); # from primitive MLI_Right
+    GL(300,350) = 3.4D-03 * CNDFN1(T300, T350, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(301,351) = 3.4D-03 * CNDFN1(T301, T351, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(302,352) = 3.4D-03 * CNDFN1(T302, T352, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(303,353) = 3.4D-03 * CNDFN1(T303, T353, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(304,354) = 3.4D-03 * CNDFN1(T304, T354, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(305,355) = 3.4D-03 * CNDFN1(T305, T355, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(306,356) = 3.4D-03 * CNDFN1(T306, T356, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(307,357) = 3.4D-03 * CNDFN1(T307, T357, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(308,358) = 3.4D-03 * CNDFN1(T308, T358, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(309,359) = 3.4D-03 * CNDFN1(T309, T359, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(310,360) = 3.4D-03 * CNDFN1(T310, T360, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(311,361) = 3.4D-03 * CNDFN1(T311, T361, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(312,362) = 3.4D-03 * CNDFN1(T312, T362, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(313,363) = 3.4D-03 * CNDFN1(T313, T363, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(314,364) = 3.4D-03 * CNDFN1(T314, T364, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(315,365) = 3.4D-03 * CNDFN1(T315, T365, sh_MLI_k_through, 1); # from primitive MLI_Back
+    GL(400,450) = 2.86875D-03 * CNDFN1(T400, T450, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(401,451) = 2.86875D-03 * CNDFN1(T401, T451, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(402,452) = 2.86875D-03 * CNDFN1(T402, T452, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(403,453) = 2.86875D-03 * CNDFN1(T403, T453, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(404,454) = 2.86875D-03 * CNDFN1(T404, T454, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(405,455) = 2.86875D-03 * CNDFN1(T405, T455, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(406,456) = 2.86875D-03 * CNDFN1(T406, T456, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(407,457) = 2.86875D-03 * CNDFN1(T407, T457, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(408,458) = 2.86875D-03 * CNDFN1(T408, T458, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(409,459) = 2.86875D-03 * CNDFN1(T409, T459, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(410,460) = 2.86875D-03 * CNDFN1(T410, T460, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(411,461) = 2.86875D-03 * CNDFN1(T411, T461, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(412,462) = 2.86875D-03 * CNDFN1(T412, T462, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(413,463) = 2.86875D-03 * CNDFN1(T413, T463, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(414,464) = 2.86875D-03 * CNDFN1(T414, T464, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(415,465) = 2.86875D-03 * CNDFN1(T415, T465, sh_MLI_k_through, 1); # from primitive MLI_Left
+    GL(500,550) = 5.4D-03 * CNDFN1(T500, T550, sh_MLI_k_through, 1); # from primitive MLI_Up
+    GL(501,551) = 5.4D-03 * CNDFN1(T501, T551, sh_MLI_k_through, 1); # from primitive MLI_Up
+    GL(502,552) = 5.4D-03 * CNDFN1(T502, T552, sh_MLI_k_through, 1); # from primitive MLI_Up
+    GL(503,553) = 5.4D-03 * CNDFN1(T503, T553, sh_MLI_k_through, 1); # from primitive MLI_Up
+    GL(504,554) = 5.4D-03 * CNDFN1(T504, T554, sh_MLI_k_through, 1); # from primitive MLI_Up
+    GL(507,557) = 5.4D-03 * CNDFN1(T507, T557, sh_MLI_k_through, 1); # from primitive MLI_Up
+    GL(508,558) = 5.4D-03 * CNDFN1(T508, T558, sh_MLI_k_through, 1); # from primitive MLI_Up
+    GL(511,561) = 5.4D-03 * CNDFN1(T511, T561, sh_MLI_k_through, 1); # from primitive MLI_Up
+    GL(512,562) = 5.4D-03 * CNDFN1(T512, T562, sh_MLI_k_through, 1); # from primitive MLI_Up
+    GL(513,563) = 5.4D-03 * CNDFN1(T513, T563, sh_MLI_k_through, 1); # from primitive MLI_Up
+    GL(514,564) = 5.4D-03 * CNDFN1(T514, T564, sh_MLI_k_through, 1); # from primitive MLI_Up
+    GL(515,565) = 5.4D-03 * CNDFN1(T515, T565, sh_MLI_k_through, 1); # from primitive MLI_Up
+    GL(600,650) = 5.4D-03 * CNDFN1(T600, T650, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(601,651) = 5.4D-03 * CNDFN1(T601, T651, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(602,652) = 5.4D-03 * CNDFN1(T602, T652, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(603,653) = 5.4D-03 * CNDFN1(T603, T653, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(604,654) = 5.4D-03 * CNDFN1(T604, T654, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(605,655) = 4.692371D-03 * CNDFN1(T605, T655, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(606,656) = 4.692371D-03 * CNDFN1(T606, T656, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(607,657) = 5.4D-03 * CNDFN1(T607, T657, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(608,658) = 5.4D-03 * CNDFN1(T608, T658, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(609,659) = 4.692371D-03 * CNDFN1(T609, T659, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(610,660) = 4.692371D-03 * CNDFN1(T610, T660, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(611,661) = 5.4D-03 * CNDFN1(T611, T661, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(612,662) = 5.4D-03 * CNDFN1(T612, T662, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(613,663) = 5.4D-03 * CNDFN1(T613, T663, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(614,664) = 5.4D-03 * CNDFN1(T614, T664, sh_MLI_k_through, 1); # from primitive MLI_Down
+    GL(615,665) = 5.4D-03 * CNDFN1(T615, T665, sh_MLI_k_through, 1); # from primitive MLI_Down
+
+
+# ---------------------------------------------- #
